@@ -5,6 +5,8 @@
 - partition on windows system for ubuntu 
 - download ubuntu on a USBs flask disk.
 - make this USBs bootable
+  - ubuntu version: https://vitux.com/how-to-create-a-bootable-usb-stick-from-the-ubuntu-terminal/
+  - windows version: download a software to boot the usb drive
 - follow these steps: https://itsfoss.com/install-ubuntu-dual-boot-mode-windows/
 
 # Partition
