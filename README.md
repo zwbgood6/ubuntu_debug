@@ -33,7 +33,7 @@
 
 - Main OS: windows, external OS: ubuntu - https://www.58bits.com/blog/2020/02/28/how-create-truly-portable-ubuntu-installation-external-usb-hdd-or-ssd
 
-- Main OS: ubuntu, external OS: ubuntu - 
+- Main OS: ubuntu, external OS: ubuntu - https://askubuntu.com/questions/921046/how-to-remove-ubuntu-from-boot-menu-after-deleting-ubuntu-partition-in-windows
 
 # Debug
 
