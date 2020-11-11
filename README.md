@@ -31,6 +31,9 @@
 
 # Installation (install ubuntu in a portable SSD, not Dual Boot)
 
+- Main OS: windows, external OS: ubuntu - https://www.58bits.com/blog/2020/02/28/how-create-truly-portable-ubuntu-installation-external-usb-hdd-or-ssd
+
+- Main OS: ubuntu, external OS: ubuntu - 
 
 # Debug
 
