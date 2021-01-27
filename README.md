@@ -60,3 +60,6 @@ Mouse freezes after login
 
 https://askubuntu.com/questions/223501/ubuntu-gets-stuck-in-a-login-loop/223515#223515
 
+# ubuntu cannot boot into GRUB menu
+
+https://askubuntu.com/questions/668049/grub-menu-at-boot-time-holding-shift-not-working
